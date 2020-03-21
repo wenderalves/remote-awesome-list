@@ -21,7 +21,7 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
  Agência de tarefas remotas
  - [https://www.appen.com/](https://www.appen.com/)  
  Agência de micro trabalhos remotos.
- - [https://www.remote.io/remote-jobs](https://www.remote.io/)  
+ - [https://www.remote.io/](https://www.remote.io/remote-jobs)  
  Site de procura para serviços remotos.
  
  
@@ -36,23 +36,23 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
  Site brasileiro similar ao site fiverr.
  - [https://www.peopleperhour.com/](https://www.peopleperhour.com/)  
  Serviços freelancer de diversas categorias.
- - [https://www.guru.com/d/jobs/](https://www.guru.com/)  
+ - [https://www.guru.com/](https://www.guru.com/d/jobs/)  
  Encontre trabalhos de várias categorias para freelancers.
  - [https://www.toptal.com/](https://www.toptal.com/)  
  Site para se cadastrar como freelancer.
- - [https://www.truelancer.com/freelance-jobs](https://www.truelancer.com/)  
+ - [https://www.truelancer.com/](https://www.truelancer.com/freelance-jobs)  
  Site para se cadastrar como freelancer.
  - [https://www.99freelas.com.br/](https://www.99freelas.com.br/)  
  Encontre trabalhos de várias categorias para freelancers.
  - [https://www.proz.com/](https://www.proz.com/)  
  Site que oferece serviços para tradução e paga em dolar.
- - [https://www.translatorscafe.com/cafe/](https://www.translatorscafe.com/)  
+ - [https://www.translatorscafe.com/](https://www.translatorscafe.com/cafe/)  
  Site que oferece serviços para tradução.
  - [https://99designs.com.br/](https://99designs.com.br/)  
  Site freelancer para serviços criativos.
- - [https://www.wedologos.com.br/projeto-lista.aspx](https://www.wedologos.com.br/)  
+ - [https://www.wedologos.com.br/](https://www.wedologos.com.br/projeto-lista.aspx)  
  Site com serviços criativos e rápidos.
- - [https://www.workana.com/pt](https://www.workana.com/)  
+ - [https://www.workana.com](https://www.workana.com/pt)  
  Encontre trabalhos de várias categorias para freelancers.
  - [https://www.utest.com/](https://www.utest.com/)  
  Site que paga para fazer teste de aplicativos e softwares.
@@ -66,9 +66,11 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
 ## Cursos Livres
 - [https://www.edx.org/school/harvardx](https://www.edx.org/school/harvardx)  
 Mais de 140 Cursos de Harvard de diversas Áreas.
-- [https://cursos.faber-castell.com.br/combos/combo-numero-emcasacomfabercastell](Em casa com faber castell)  
+- [Cursos - Faber Castell](https://cursos.faber-castell.com.br/combos/combo-numero-emcasacomfabercastell)  
 Curso gratuítos por 30 Dias em época de quarentena isso é muito importante.
-- [https://university.rockcontent.com/cursos](rockcontent - cursos)  
+- [rockcontent - cursos](https://university.rockcontent.com/cursos/)  
 Cursos gratuítos para quem quer viver de marketing digital.
-- [https://www.udemy.com/courses/search/?kw=gratuito&price=price-free&q=cursos%20gratuitos&src=sac](Udemy Cursos)  
+- [Udemy Cursos](https://www.udemy.com/courses/search/?kw=gratuito&price=price-free&q=cursos%20gratuitos&src=sac)  
 O melhor site de cursos, liberou para todos nesse momento de quarentena centenas de cursos livres.
+- [Cursos do Sebrae](https://www.sebrae.com.br/sites/PortalSebrae/cursosonline)  
+Estar junto é mais do que estar perto! Aproveite a quarentena para se capacitar com nossos cursos, e-books e jogos.
