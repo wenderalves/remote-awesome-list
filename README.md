@@ -1,9 +1,9 @@
-# REMOTE AWESOME LIST
+![header](https://raw.githubusercontent.com/wenderalves/remote-awesome-list/master/REMOTO.png "Remote awesome list")
 Esta lista foi criada para que você tente um emprego e trabalhe remotamente, seja para complementar sua renda ou ser sua principal renda.
 
 
 
-#INDICE
+##INDICE
 - [Trabalho Remoto](#sites-para-trabalho-remoto)
 - [Sites Freelancers](#sites-freelancer)
 - [Cursos Livres](#cursos-livres)
