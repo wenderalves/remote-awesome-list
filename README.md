@@ -56,6 +56,8 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
  Encontre trabalhos de várias categorias para freelancers.
  - [https://www.utest.com/](https://www.utest.com/)  
  Site que paga para fazer teste de aplicativos e softwares.
+ - [https://materiais.rockcontent.com/banco-de-talentos](https://materiais.rockcontent.com/banco-de-talentos)  
+ Banco de talentos para criação de conteúdo, você que gosta de escrever se cadastre neste site.
  
  ## Sites de empregos Homeoffice (Brasil)
   - [https://www.homeagent.com.br/](https://www.homeagent.com.br/)  
