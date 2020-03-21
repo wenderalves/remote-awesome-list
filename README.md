@@ -3,7 +3,7 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
 
 
 
-##INDICE
+## INDICE
 - [Trabalho Remoto](#sites-para-trabalho-remoto)
 - [Sites Freelancers](#sites-freelancer)
 - [Cursos Livres](#cursos-livres)
