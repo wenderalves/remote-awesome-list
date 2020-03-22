@@ -2,11 +2,11 @@
 Esta lista foi criada para que você tente um emprego e trabalhe remotamente, seja para complementar sua renda ou ser sua principal renda.
 
 
-
 ## INDICE
-- [Trabalho Remoto](#sites-para-trabalho-remoto)
-- [Sites Freelancers](#sites-freelancer)
 - [Cursos Livres](#cursos-livres)
+- [Ferramentas](#ferramentas)
+- [Sites Freelancers](#sites-freelancer)
+- [Trabalho Remoto](#sites-para-trabalho-remoto)
 
 
 
@@ -137,3 +137,7 @@ Cursos gratuítos para quem quer viver de marketing digital.
 O melhor site de cursos, liberou para todos nesse momento de quarentena centenas de cursos livres.
 - [Cursos do Sebrae](https://www.sebrae.com.br/sites/PortalSebrae/cursosonline)  
 Estar junto é mais do que estar perto! Aproveite a quarentena para se capacitar com nossos cursos, e-books e jogos.
+
+## Ferramentas
+- [Ferramentas Úteis](https://docs.google.com/spreadsheets/d/1yWGq6sqQM_hmmoBBdLzfIhZn8XVYslIy-_3f7-X7K6s/edit?usp=sharing)  
+Ferramentas para quem faz trabalhos criativos e gestão de conteúdos.
