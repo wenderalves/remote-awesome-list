@@ -140,4 +140,17 @@ Estar junto é mais do que estar perto! Aproveite a quarentena para se capacitar
 
 ## Ferramentas
 - [Ferramentas Úteis](https://docs.google.com/spreadsheets/d/1yWGq6sqQM_hmmoBBdLzfIhZn8XVYslIy-_3f7-X7K6s/edit?usp=sharing)  
-Ferramentas para quem faz trabalhos criativos e gestão de conteúdos.
+Planilha contendo ferramentas para quem faz trabalhos criativos e gestão de conteúdos.
+- [Trello](https://trello.com/)  
+Aplicativo/Sistema para fazer controle de tarefas e pequenos projetos, baseando-se em kamban.
+- [Microsoft To-Do (Antigo Wunderlist)](https://to-do.microsoft.com/)  
+Aplicativo/Sistema para controle de tarefas e dia a dia.
+- [Evernote](https://evernote.com/intl/pt-br/)  
+Melhor aplicatico para anotações e gestão de pequenas tarefas.
+- [Todoist](https://todoist.com/pt-BR/?lang=ptbr)  
+Recupere a clareza e a tranquilidade, tirando todas essas tarefas da sua cabeça e colocando na sua lista de tarefas.
+- [Quire](https://quire.io/) 
+Uma ferramenta que pretende ser boa para gerenciar projetos no mesmo estilo trello.
+- [Google Drive](https://www.google.com.br/drive/apps.html)  
+O drive do google para quem não conhece é um dos melhores sistemas colaborativos de documentos, planilhas, arquivos e muito mais.
+
