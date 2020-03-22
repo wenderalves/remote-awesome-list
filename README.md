@@ -164,3 +164,17 @@ Uma ferramenta que pretende ser boa para gerenciar projetos no mesmo estilo trel
 - [Google Drive](https://www.google.com.br/drive/apps.html)  
 O drive do google para quem não conhece é um dos melhores sistemas colaborativos de documentos, planilhas, arquivos e muito mais.
 
+> Para Desenvolvedores
+
+- [goorm.io/ide](https://ide.goorm.io/)  
+IDE para desenvolvimento online com recursos de containers
+- [https://codesandbox.io/](https://codesandbox.io/)  
+IDE para prototipação mais focada em frontend
+- [https://rapidapi.com/](https://rapidapi.com/)  
+Marketplace de APIs, bom para usar em sites instantaneamente.
+- [https://apilist.fun/](https://apilist.fun/)  
+Repositório de APIs publicas de empresas famosas.
+- [https://public-apis.xyz/](https://public-apis.xyz/)  
+Outro repositório de APIs diversas.
+- [https://any-api.com/](https://any-api.com/)  
+Repositório de APIs com mais de 1400 de diversas categorias
