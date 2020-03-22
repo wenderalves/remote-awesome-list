@@ -5,12 +5,11 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
 ## INDICE
 - [Cursos Livres](#cursos-livres)
 - [Ferramentas](#ferramentas)
-- [Sites Freelancers](#sites-freelancer)
-- [Trabalho Remoto](#sites-para-trabalho-remoto)
+- [Trabalho Remoto e Freelas](#sites-para-trabalho-remoto-e-freelancer)
 
 
 
-## Sites para trabalho remoto
+## Sites para trabalho remoto e freelancer
  - [https://www.neevo.ai/](https://www.neevo.ai/)  
  Site que disponibiliza pequenas tarefas para treinar inteligência artificial.
  - [https://www.workmarket.com/](https://www.workmarket.com/)  
@@ -33,9 +32,8 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
  Site para fluentes em inglês que faz entrevistas de consumo e pagam por essas pesquisas.
  - [https://www.humanatic.com/](https://www.humanatic.com/)  
  É uma empresa que testa aquelas vozes de callcenter receptivo, você trabalha ligando para esses atendimentos... exige uma conta no paypal antes de iniciar o cadastro. (em inglês).
- 
- 
-## Sites Freelancer
+ - [https://www.airtasker.com/](https://www.airtasker.com/tasks/)  
+ Site para encontrar diversos tipos de tarefas estilo fiverr
  - [https://www.freelancer.com/](https://www.freelancer.com/)  
  Site com diversos serviços para freelancer.
  - [https://www.upwork.com/](https://www.upwork.com/)  
@@ -68,6 +66,8 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
  Site que paga para fazer teste de aplicativos e softwares.
  - [https://materiais.rockcontent.com/banco-de-talentos](https://materiais.rockcontent.com/banco-de-talentos)  
  Banco de talentos para criação de conteúdo, você que gosta de escrever se cadastre neste site.
+ - [https://rapidworkers.com/](https://rapidworkers.com/)  
+ Tarefas básicas fáceis de fazer site em inglês e paga em dolar via paypal... minimo de $8 para retirada
  
  > Lista abaixo foi criada a partir do artigo [32 sites para você encontrar trabalho remoto](https://www.napratica.org.br/sites-para-encontrar-trabalho-remoto/)
  
