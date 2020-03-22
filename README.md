@@ -178,3 +178,5 @@ Repositório de APIs publicas de empresas famosas.
 Outro repositório de APIs diversas.
 - [https://any-api.com/](https://any-api.com/)  
 Repositório de APIs com mais de 1400 de diversas categorias
+- [https://free-for.dev/](https://free-for.dev/)  
+Repositório incrivel com ferramentas e serviços para devs
