@@ -1,6 +1,7 @@
 ![header](https://raw.githubusercontent.com/wenderalves/remote-awesome-list/master/REMOTE.png "Remote awesome list")
 Esta lista foi criada para que você tente um emprego e trabalhe remotamente, seja para complementar sua renda ou ser sua principal renda.
 
+> Para acompanhar dados do corona em nosso País acesse o link [https://wenderalves.github.io](https://wenderalves.github.io)
 
 ## INDICE
 - [Cursos Livres](#cursos-livres)
