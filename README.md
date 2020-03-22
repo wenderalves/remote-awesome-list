@@ -23,6 +23,16 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
  Agência de micro trabalhos remotos.
  - [https://www.remote.io/](https://www.remote.io/remote-jobs)  
  Site de procura para serviços remotos.
+ - [https://www.figure-eight.com/](https://www.figure-eight.com)  
+ Site com micro trabalhos como o site da appen
+ - [https://www.rev.com/](https://www.rev.com/freelancers)  
+ Site especializado em transcrição e criação de legendas. (Inglês)
+ - [https://app.spare5.com/fives](https://app.spare5.com/fives)  
+ Site que oferece e remunera tarefas para treinar inteligência artificial
+ - [https://www.respondent.io/](https://www.respondent.io/)  
+ Site para fluentes em inglês que faz entrevistas de consumo e pagam por essas pesquisas.
+ - [https://www.humanatic.com/](https://www.humanatic.com/)  
+ É uma empresa que testa aquelas vozes de callcenter receptivo, você trabalha ligando para esses atendimentos... exige uma conta no paypal antes de iniciar o cadastro. (em inglês).
  
  
 ## Sites Freelancer
@@ -149,7 +159,7 @@ Aplicativo/Sistema para controle de tarefas e dia a dia.
 Melhor aplicatico para anotações e gestão de pequenas tarefas.
 - [Todoist](https://todoist.com/pt-BR/?lang=ptbr)  
 Recupere a clareza e a tranquilidade, tirando todas essas tarefas da sua cabeça e colocando na sua lista de tarefas.
-- [Quire](https://quire.io/) 
+- [Quire](https://quire.io/)  
 Uma ferramenta que pretende ser boa para gerenciar projetos no mesmo estilo trello.
 - [Google Drive](https://www.google.com.br/drive/apps.html)  
 O drive do google para quem não conhece é um dos melhores sistemas colaborativos de documentos, planilhas, arquivos e muito mais.
