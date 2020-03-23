@@ -69,6 +69,8 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
  Banco de talentos para criação de conteúdo, você que gosta de escrever se cadastre neste site.
  - [https://rapidworkers.com/](https://rapidworkers.com/)  
  Tarefas básicas fáceis de fazer site em inglês e paga em dolar via paypal... minimo de $8 para retirada
+ - [https://www.userfeel.com/](https://www.userfeel.com/pt)  
+ Site que paga para testar sites.
  
  > Lista abaixo foi criada a partir do artigo [32 sites para você encontrar trabalho remoto](https://www.napratica.org.br/sites-para-encontrar-trabalho-remoto/)
  
@@ -138,6 +140,8 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
   Site com vagas remotas oferecidas no brasil
 
 ## Cursos Livres
+- [university rockcontent](https://university.rockcontent.com/cursos)  
+Cursos voltados para o marketing digital.
 - [https://www.edx.org/school/harvardx](https://www.edx.org/school/harvardx)  
 Mais de 140 Cursos de Harvard de diversas Áreas.
 - [Cursos - Faber Castell](https://cursos.faber-castell.com.br/combos/combo-numero-emcasacomfabercastell)  
