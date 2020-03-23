@@ -162,6 +162,8 @@ Uma trilha montada para pessoas que querem se programar melhor e ter mais produt
 Site com muita informação e várias formas de aprender e melhorar seu inglês.
 - [Unieducar - micro-cursos](https://unieducar.org.br/cursos)  
 Site dom diversos micro-cursos com certificado, bom para matar aquelas horas de faculdade.
+- [Microsoft](https://docs.microsoft.com/pt-br/learn/)  
+Certificações da Microsoft
 
 > Liberados temporariamente por causa da COVID19
 - [Curso de Inglês](https://app.sedacollegeonline.com/p/seda-college-live-classes)  
