@@ -71,6 +71,8 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
  Tarefas básicas fáceis de fazer site em inglês e paga em dolar via paypal... minimo de $8 para retirada
  - [https://www.userfeel.com/](https://www.userfeel.com/pt)  
  Site que paga para testar sites.
+ - [Freelancer Select](https://app.freelancerselect.com.br/search-projects)  
+ Sites para pequenos trabalhos ou contratos
  
  > Lista abaixo foi criada a partir do artigo [32 sites para você encontrar trabalho remoto](https://www.napratica.org.br/sites-para-encontrar-trabalho-remoto/)
  
