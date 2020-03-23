@@ -148,6 +148,23 @@ Cursos gratuítos para quem quer viver de marketing digital.
 O melhor site de cursos, liberou para todos nesse momento de quarentena centenas de cursos livres.
 - [Cursos do Sebrae](https://www.sebrae.com.br/sites/PortalSebrae/cursosonline)  
 Estar junto é mais do que estar perto! Aproveite a quarentena para se capacitar com nossos cursos, e-books e jogos.
+- [Linkedin](https://www.linkedin.com/learning/paths/trabalho-remoto-colaboracao-foco-e-produtividade)  
+Cursos relacionados a trabalho remoto e produtividade
+- [IFRS - Instituto Federal do Rio Grande do Sul](https://moodle.ifrs.edu.br/course/index.php?categoryid=38)  
+Curso de diversas áreas gratuítos.
+- [Escola Virtual do Governo](https://www.escolavirtual.gov.br/)  
+Não sabia que existia um escola virtual do governo e com vários cursos.
+- [LearnCafe](https://www.learncafe.com/cursos-gratis)  
+Cursos gratis de diversas categorias
+- [Curso: Em tempos de home office](https://play.veduca.org/curso-online-trilha-em-tempos-de-home-office)  
+Uma trilha montada para pessoas que querem se programar melhor e ter mais produtividade, recomendo.
+- [Aprender Inglês com Cambridge](https://www.cambridgeenglish.org/br/learning-english/)  
+Site com muita informação e várias formas de aprender e melhorar seu inglês.
+
+> Liberados temporariamente por causa da COVID19
+- [Curso de Inglês](https://app.sedacollegeonline.com/p/seda-college-live-classes)  
+Curso da plataforma seda para diversos níveis cadastre-se e estude um novo idioma, escolha uma das classes nos respectivos horários e clique em preview
+
 
 ## Ferramentas
 - [Ferramentas Úteis](https://docs.google.com/spreadsheets/d/1yWGq6sqQM_hmmoBBdLzfIhZn8XVYslIy-_3f7-X7K6s/edit?usp=sharing)  
