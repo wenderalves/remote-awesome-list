@@ -43,6 +43,8 @@ Esta lista foi criada para que você tente um emprego e trabalhe remotamente, se
  Site para oferecer serviços a partir de $5.
  - [https://vinteconto.com.br/](https://vinteconto.com.br/)  
  Site brasileiro similar ao site fiverr.
+ - [https://www.vintepila.com.br/](https://www.vintepila.com.br/)  
+ Site similar ao vinteconto.
  - [https://www.peopleperhour.com/](https://www.peopleperhour.com/)  
  Serviços freelancer de diversas categorias.
  - [https://www.guru.com/](https://www.guru.com/d/jobs/)  
